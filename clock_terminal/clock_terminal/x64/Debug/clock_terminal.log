@@ -1,2 +1,3 @@
 ﻿  Source.c
-  clock_terminal.vcxproj -> C:\DEV\C\clock_terminal\x64\Debug\clock_terminal.exe
+  LINK : C:\Users\201434\source\repos\clock-angle-finder\clock_terminal\x64\Debug\clock_terminal.exe not found or not built by the last incremental link; performing full link
+  clock_terminal.vcxproj -> C:\Users\201434\source\repos\clock-angle-finder\clock_terminal\x64\Debug\clock_terminal.exe
