@@ -1,5 +1,5 @@
-#ifndef _NEVZATCLOCK_
-#define _NEVZATCLOCK_
+#ifndef _CLOCK_
+#define _CLOCK_
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
@@ -9,5 +9,5 @@
 double calculation(const char* str);
 
 
-#endif //_NEVZATCLOCK_
+#endif //_CLOCK_
 
